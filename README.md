@@ -4,7 +4,7 @@
 # 环境准备：  
 Tensorflow CPU：https://www.bilibili.com/read/cv8962053  
 Tensorflow GPU：https://www.bilibili.com/read/cv9003982  
-Tensorflow GPU+Ubuntu：https://www.bilibili.com/read/cv9164113 
+Tensorflow GPU+Ubuntu：https://www.bilibili.com/read/cv9164113
 labelImg ：https://www.bilibili.com/read/cv21375972
 
 # B站讲解视频：  
