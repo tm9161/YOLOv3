@@ -8,4 +8,5 @@ TensorFlow GPU+Ubuntu：https://www.bilibili.com/read/cv9164113
 labelImg ：https://www.bilibili.com/read/cv21375972
 
 # B站讲解视频：  
-1.目标检测任务与数据集：
+1.目标检测任务与数据集：https://www.bilibili.com/video/BV1YG4y1N7uz  
+
